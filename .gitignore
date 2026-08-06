@@ -1,0 +1,3 @@
+*.exe
+/go-color
+_*.txt
